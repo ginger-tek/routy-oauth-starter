@@ -1,5 +1,5 @@
 {
-    "name": "routy-oauth-starter",
+    "name": "ginger-tek/routy-oauth-starter",
     "description": "A starter project for Routy with OAuth integration",
     "type": "project",
     "require": {
