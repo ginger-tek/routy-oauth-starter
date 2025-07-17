@@ -1,0 +1,14 @@
+{
+    "title": "routy-oauth-starter",
+    "description": "A starter project for Routy with OAuth integration",
+    "type": "project",
+    "require": {
+        "ginger-tek/routy": "^3.8",
+        "vudev/jsonwebtoken": "^0.0.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

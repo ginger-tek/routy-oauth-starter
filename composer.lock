@@ -1,0 +1,108 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "40c127d7fa16c224e36fef63ea6302ab",
+    "packages": [
+        {
+            "name": "ginger-tek/routy",
+            "version": "3.8.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ginger-tek/routy.git",
+                "reference": "3d51266d739e6a6bdb997bc8297a306f39e75ba1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ginger-tek/routy/zipball/3d51266d739e6a6bdb997bc8297a306f39e75ba1",
+                "reference": "3d51266d739e6a6bdb997bc8297a306f39e75ba1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "GingerTek\\": "GingerTek"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "GingerTek",
+                    "homepage": "https://github.com/ginger-tek"
+                }
+            ],
+            "description": "A simple, robust PHP router for fast app and API development",
+            "homepage": "https://github.com/ginger-tek/routy",
+            "keywords": [
+                "api",
+                "mpa",
+                "rest",
+                "router",
+                "routing",
+                "templating"
+            ],
+            "support": {
+                "issues": "https://github.com/ginger-tek/routy/issues",
+                "source": "https://github.com/ginger-tek/routy/tree/3.8.0"
+            },
+            "time": "2025-07-16T18:14:02+00:00"
+        },
+        {
+            "name": "vudev/jsonwebtoken",
+            "version": "v0.0.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/DeveloperVusal/JsonWebToken.git",
+                "reference": "97eb273eb79dfa50cd1b4744a60f520369f0b290"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/DeveloperVusal/JsonWebToken/zipball/97eb273eb79dfa50cd1b4744a60f520369f0b290",
+                "reference": "97eb273eb79dfa50cd1b4744a60f520369f0b290",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Vudev\\JsonWebToken\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mamedov Vusal",
+                    "homepage": "https://vusal.website"
+                }
+            ],
+            "description": "This library is designed to generate JWT tokens.",
+            "support": {
+                "issues": "https://github.com/DeveloperVusal/JsonWebToken/issues",
+                "source": "https://github.com/DeveloperVusal/JsonWebToken/tree/v0.0.7"
+            },
+            "time": "2022-05-08T02:05:54+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
