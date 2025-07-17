@@ -1,5 +1,5 @@
 {
-    "title": "routy-oauth-starter",
+    "name": "routy-oauth-starter",
     "description": "A starter project for Routy with OAuth integration",
     "type": "project",
     "require": {
